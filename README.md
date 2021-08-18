@@ -2,6 +2,7 @@
 It is a portfolio project on data visualization of Stock value of Tesla from 2016-08-16 to 2021-08-13.
 
 Unfortunately I couldn't display the plotly graph outputs along with the code so I have uploaded them here for your review.
+Also If the code doesn't open first time, just click reload It should open fine.
 
 1.) This first output below shows the difference between the mean of Open Stock prices of each day for every month to the mean of Closing Stock price of each day for every month.
 
